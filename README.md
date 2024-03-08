@@ -1,7 +1,7 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Q9fRKzk/Screenshot-3-8-2024-10-18-59-PM.png" alt="Screenshot-3-8-2024-10-18-59-PM" border="0" /></a>
-
 # SHAP_GridSearch_CatsVSDogs
 Binary classification, SHAP (Explainable Artificial Intelligence), and Grid Search (for tuning hyperparameters) using EfficientNetV2-B0 on Cat VS Dog dataset.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Q9fRKzk/Screenshot-3-8-2024-10-18-59-PM.png" alt="Screenshot-3-8-2024-10-18-59-PM" border="0" /></a>
 
 We implemented EfficientNetV2 to perform a binary classification task.
 We chose Adam Optimizer because of its dynamic learning rate in default. So, in this case, we don't need to tune the learning rate, but it doesn't necessarily mean that our dynamic learning rate performance is the best. For instance, in some cases, it will converge slower. 
